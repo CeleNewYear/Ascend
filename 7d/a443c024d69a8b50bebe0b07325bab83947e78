@@ -1,0 +1,14 @@
+ccec/cycle_count_demo/cycle_count.asc
+  h_16922c0942b7ae 92-93,100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "7da443c024d69a8b50bebe0b07325bab83947e78",
+  "prompts": {},
+  "humans": {
+    "h_16922c0942b7ae": {
+      "author": "CeleNewYear <1402759843@qq.com>"
+    }
+  }
+}
