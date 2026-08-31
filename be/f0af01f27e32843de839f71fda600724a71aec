@@ -1,0 +1,32 @@
+ccec/cycle_count_demo/README.md
+  s_7ecf157372fcf2::t_55500204f03358 3,28,36-37,39,52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "bef0af01f27e32843de839f71fda600724a71aec",
+  "prompts": {},
+  "sessions": {
+    "s_7ecf157372fcf2": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a93ee754d6660b921131d82",
+        "model": "glm-5.2"
+      },
+      "human_author": "CeleNewYear <1402759843@qq.com>",
+      "custom_attributes": {
+        "runtime_client": "trae-tob-git-ai",
+        "source_scene": "agent",
+        "dedupe_key": "6a93ee754d6660b921131d82:6a94ec4d4d6660b921131e17:afterEdit:d01b690c",
+        "tool_use_id": "6a94ec4d4d6660b921131e17",
+        "edit_kind": "file_edit",
+        "operation_id": "6a94ec4d4d6660b921131e17",
+        "tool_type": "builtin",
+        "client_type": "ide",
+        "session_id": "6a93ee754d6660b921131d82",
+        "external_session_id": "6a93ee754d6660b921131d82",
+        "tool_id": "icube:applyChatSnapshotPatch"
+      }
+    }
+  }
+}
