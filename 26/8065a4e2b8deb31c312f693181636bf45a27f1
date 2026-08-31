@@ -1,0 +1,16 @@
+ccec/reduce_demo/scripts/gen_data.py
+  h_16922c0942b7ae 1-35
+ccec/reduce_demo/README.md
+  h_16922c0942b7ae 1-203
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "268065a4e2b8deb31c312f693181636bf45a27f1",
+  "prompts": {},
+  "humans": {
+    "h_16922c0942b7ae": {
+      "author": "CeleNewYear <1402759843@qq.com>"
+    }
+  }
+}
